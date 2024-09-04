@@ -1,10 +1,10 @@
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-  ![FullStack](https://github.com/SwanHtetAung20/SwanHtetAung20/blob/main/photo2.webp)
 </div>  
-  
 
+  
+  ![FullStack](https://github.com/SwanHtetAung20/SwanHtetAung20/blob/main/photo2.webp)
 ### <div align="center">I'm Swan Htet Aung, a web developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
