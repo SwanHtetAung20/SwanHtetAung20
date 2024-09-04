@@ -3,9 +3,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-  
-  ![FullStack](https://github.com/SwanHtetAung20/SwanHtetAung20/blob/main/photo2.webp)
-### <div align="center">I'm Swan Htet Aung, a web developer 👨‍💻 working remotely since 2024 🚀</div>  
+
+### <div align="center">
+![FullStack](https://github.com/SwanHtetAung20/SwanHtetAung20/blob/main/photo2.webp)
+I'm Swan Htet Aung, a web developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 - 🔭 I’m currently working on Amazon web services  
