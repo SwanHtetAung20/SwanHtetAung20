@@ -6,7 +6,10 @@
 
 ### <div align="center">
 ![FullStack](https://github.com/SwanHtetAung20/SwanHtetAung20/blob/main/photo2.webp)
-I'm Swan Htet Aung, a web developer 👨‍💻 working remotely since 2024 🚀</div>  
+<div>
+  I'm Swan Htet Aung, a web developer 👨‍💻 working remotely since 2024 🚀
+</div>
+</div>  
   
 
 - 🔭 I’m currently working on Amazon web services  
