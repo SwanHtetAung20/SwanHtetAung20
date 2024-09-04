@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swan Htet Aung</h1>
 <h1 align="center">Web Developer</h1>
 - I'm currently learning **Amazon web services and Vue js** 
-- All of my projects are available at [https://github.com/SwanHtetAung20?tab=repositories]
-(https://github.com/SwanHtetAung20?tab=repositories)
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
