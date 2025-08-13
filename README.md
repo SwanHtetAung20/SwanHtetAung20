@@ -1,3 +1,26 @@
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+tr {
+  width: 100vw; 
+  display: flex;
+}
+td {
+  flex: 1 1 33%;
+  vertical-align: top;
+  padding: 0.5em;
+}
+td img {
+  max-width: 100%;
+  height: auto;
+}
+table, th, td {
+  border: none;
+}
+</style>
+
 <div align="center">
 <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" align="center" style="width: 100%" />
 </div>  
